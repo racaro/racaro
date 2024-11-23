@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Raúl Carrasco!  
+# 👋 Hi, I'm Raúl!  
 **Software QA Engineer | AI and Data Science**  
 
 ---
