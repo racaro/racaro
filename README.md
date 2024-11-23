@@ -28,7 +28,8 @@ I am passionate about learning new technologies and practicing sports.
 ---
 
 ### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulCarrasco9797&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulCarrasco9797&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaulCarrasco9797&theme=tokyonight)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RaulCarrasco9797&theme=tokyo-night)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=racaro&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=racaro&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=racaro&theme=tokyonight)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=racaro&theme=tokyo-night)  
+
